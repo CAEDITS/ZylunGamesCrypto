@@ -2,7 +2,7 @@
   "name": "ZylunGames",
   "symbol": "ZYG",
   "description": "ZylunGames On Solana!",
-  "image": "https://meusite.com/minha-imagem.png",
+  "image": "https://github.com/CAEDITS/ZylunGamesCrypto/blob/main/DALL%C2%B7E%202025-02-04%2009.39.17%20-%20A%20high-quality%20futuristic%20logo%20for%20'Zylun%20Games%20Crypto'.%20The%20logo%20should%20feature%20a%20sleek%2C%20neon%20cyberpunk%20design%20with%20a%20glowing%20digital%20coin%2C%20a%20stylize.webp",
   "attributes": [
     {
       "trait_type": "Coin",
@@ -12,8 +12,8 @@
   "properties": {
     "files": [
       {
-        "uri": "https://meusite.com/minha-imagem.png",
-        "type": "image/png"
+        "uri": "https://github.com/CAEDITS/ZylunGamesCrypto/blob/main/DALL%C2%B7E%202025-02-04%2009.39.17%20-%20A%20high-quality%20futuristic%20logo%20for%20'Zylun%20Games%20Crypto'.%20The%20logo%20should%20feature%20a%20sleek%2C%20neon%20cyberpunk%20design%20with%20a%20glowing%20digital%20coin%2C%20a%20stylize.webp",
+        "type": "image/webp"
       }
     ]
   }
