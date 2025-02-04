@@ -1,0 +1,20 @@
+{
+  "name": "ZylunGames",
+  "symbol": "ZYG",
+  "description": "ZylunGames On Solana!",
+  "image": "https://meusite.com/minha-imagem.png",
+  "attributes": [
+    {
+      "trait_type": "Coin",
+      "value": "Finance"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://meusite.com/minha-imagem.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
